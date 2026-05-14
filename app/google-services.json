@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "422728446590",
+    "firebase_url": "https://shaalevikas-a3ddb-default-rtdb.firebaseio.com",
+    "project_id": "shaalevikas-a3ddb",
+    "storage_bucket": "shaalevikas-a3ddb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422728446590:android:6dc5886df9e2994bfcde2f",
+        "android_client_info": {
+          "package_name": "com.example.shaalevikas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjJK9hzgtl_IebcJIfeTPdmM1Mx_OuClw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
