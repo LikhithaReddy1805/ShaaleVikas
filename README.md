@@ -140,7 +140,7 @@ Included Screens:
 
 # APK Download
 
-[Download APK Here](PASTE_YOUR_GOOGLE_DRIVE_APK_LINK)
+[Download APK Here](https://drive.google.com/file/d/1p6g3gjoz6fTh17m-zuLg8Q_4ofV11uaS/view?usp=sharing)
 
 ---
 
