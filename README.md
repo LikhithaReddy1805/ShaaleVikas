@@ -36,3 +36,7 @@ Shaale Vikas is an Android application developed to improve transparency and col
 
 ## Developed By
 Bayathatha Gari Likhitha Reddy
+
+## APK Download
+
+[Download APK Here](https://drive.google.com/file/d/1p6g3gjoz6fTh17m-zuLg8Q_4ofV11uaS/view?usp=sharing)
