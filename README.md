@@ -35,4 +35,4 @@ Shaale Vikas is an Android application developed to improve transparency and col
 - Analytics Dashboard
 
 ## Developed By
-B. Likhitha Reddy
+Bayathatha Gari Likhitha Reddy
